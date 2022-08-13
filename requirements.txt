@@ -2,3 +2,9 @@ dotenv
 streamlit
 holoviews
 pathlib
+math
+numpy
+heapq 
+os
+requests
+json
