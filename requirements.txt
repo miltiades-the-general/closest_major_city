@@ -1,3 +1,4 @@
 streamlit
 holoviews
 numpy
+python-dotenv
