@@ -1,7 +1,3 @@
 streamlit
 holoviews
 numpy
-heapq 
-os
-requests
-math
