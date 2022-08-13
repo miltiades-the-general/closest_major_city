@@ -1,0 +1,1202 @@
+[
+    {
+        "rank": 1,
+        "name": "New York",
+        "region": "New York",
+        "population": 8804190,
+        "latitude": 40.66,
+        "longitude": -73.93
+    },
+    {
+        "rank": 2,
+        "name": "Los Angeles",
+        "region": "California",
+        "population": 3898747,
+        "latitude": 34.01,
+        "longitude": -118.41
+    },
+    {
+        "rank": 3,
+        "name": "Chicago",
+        "region": "Illinois",
+        "population": 2746388,
+        "latitude": 41.83,
+        "longitude": -87.68
+    },
+    {
+        "rank": 4,
+        "name": "Houston",
+        "region": "Texas",
+        "population": 2304580,
+        "latitude": 29.78,
+        "longitude": -95.39
+    },
+    {
+        "rank": 5,
+        "name": "Phoenix",
+        "region": "Arizona",
+        "population": 1608139,
+        "latitude": 33.57,
+        "longitude": -112.09
+    },
+    {
+        "rank": 6,
+        "name": "Philadelphia",
+        "region": "Pennsylvania",
+        "population": 1603797,
+        "latitude": 40.0,
+        "longitude": -75.13
+    },
+    {
+        "rank": 7,
+        "name": "San Antonio",
+        "region": "Texas",
+        "population": 1434625,
+        "latitude": 29.47,
+        "longitude": -98.52
+    },
+    {
+        "rank": 8,
+        "name": "San Diego",
+        "region": "California",
+        "population": 1386932,
+        "latitude": 32.81,
+        "longitude": -117.13
+    },
+    {
+        "rank": 9,
+        "name": "Dallas",
+        "region": "Texas",
+        "population": 1304379,
+        "latitude": 32.79,
+        "longitude": -96.76
+    },
+    {
+        "rank": 10,
+        "name": "San Jose",
+        "region": "California",
+        "population": 1013240,
+        "latitude": 37.29,
+        "longitude": -121.81
+    },
+    {
+        "rank": 11,
+        "name": "Austin",
+        "region": "Texas",
+        "population": 961855,
+        "latitude": 30.3,
+        "longitude": -97.75
+    },
+    {
+        "rank": 12,
+        "name": "Jacksonville",
+        "region": "Florida",
+        "population": 949611,
+        "latitude": 30.33,
+        "longitude": -81.66
+    },
+    {
+        "rank": 13,
+        "name": "Fort Worth",
+        "region": "Texas",
+        "population": 918915,
+        "latitude": 32.78,
+        "longitude": -97.34
+    },
+    {
+        "rank": 14,
+        "name": "Columbus",
+        "region": "Ohio",
+        "population": 905748,
+        "latitude": 39.98,
+        "longitude": -82.98
+    },
+    {
+        "rank": 15,
+        "name": "Indianapolis",
+        "region": "Indiana",
+        "population": 887642,
+        "latitude": 39.77,
+        "longitude": -86.14
+    },
+    {
+        "rank": 16,
+        "name": "Charlotte",
+        "region": "North Carolina",
+        "population": 874579,
+        "latitude": 35.2,
+        "longitude": -80.83
+    },
+    {
+        "rank": 17,
+        "name": "San Francisco",
+        "region": "California",
+        "population": 873965,
+        "latitude": 37.72,
+        "longitude": -122.5
+    },
+    {
+        "rank": 18,
+        "name": "Seattle",
+        "region": "Washington",
+        "population": 737015,
+        "latitude": 47.62,
+        "longitude": -122.35
+    },
+    {
+        "rank": 19,
+        "name": "Denver",
+        "region": "Colorado",
+        "population": 715522,
+        "latitude": 39.76,
+        "longitude": -104.88
+    },
+    {
+        "rank": 20,
+        "name": "Oklahoma City",
+        "region": "Oklahoma",
+        "population": 681054,
+        "latitude": 35.46,
+        "longitude": -97.51
+    },
+    {
+        "rank": 21,
+        "name": "Nashville",
+        "region": "Tennessee",
+        "population": 689447,
+        "latitude": 36.17,
+        "longitude": -86.78
+    },
+    {
+        "rank": 22,
+        "name": "El Paso",
+        "region": "Texas",
+        "population": 678815,
+        "latitude": 31.84,
+        "longitude": -106.42
+    },
+    {
+        "rank": 23,
+        "name": "Washington",
+        "region": "District of Columbia",
+        "population": 689545,
+        "latitude": 38.9,
+        "longitude": -77.01
+    },
+    {
+        "rank": 24,
+        "name": "Boston",
+        "region": "Massachusetts",
+        "population": 675647,
+        "latitude": 42.33,
+        "longitude": -71.02
+    },
+    {
+        "rank": 25,
+        "name": "Las Vegas",
+        "region": "Nevada",
+        "population": 641903,
+        "latitude": 36.22,
+        "longitude": -115.26
+    },
+    {
+        "rank": 26,
+        "name": "Portland",
+        "region": "Oregon",
+        "population": 652503,
+        "latitude": 45.53,
+        "longitude": -122.65
+    },
+    {
+        "rank": 27,
+        "name": "Detroit",
+        "region": "Michigan",
+        "population": 639111,
+        "latitude": 42.38,
+        "longitude": -83.1
+    },
+    {
+        "rank": 28,
+        "name": "Louisville",
+        "region": "Kentucky",
+        "population": 633045,
+        "latitude": 38.16,
+        "longitude": -85.64
+    },
+    {
+        "rank": 29,
+        "name": "Memphis",
+        "region": "Tennessee",
+        "population": 633104,
+        "latitude": 35.1,
+        "longitude": -89.97
+    },
+    {
+        "rank": 30,
+        "name": "Baltimore",
+        "region": "Maryland",
+        "population": 585708,
+        "latitude": 39.3,
+        "longitude": -76.61
+    },
+    {
+        "rank": 31,
+        "name": "Milwaukee",
+        "region": "Wisconsin",
+        "population": 577222,
+        "latitude": 43.06,
+        "longitude": -87.96
+    },
+    {
+        "rank": 32,
+        "name": "Albuquerque",
+        "region": "New Mexico",
+        "population": 564559,
+        "latitude": 35.1,
+        "longitude": -106.64
+    },
+    {
+        "rank": 33,
+        "name": "Fresno",
+        "region": "California",
+        "population": 542107,
+        "latitude": 36.78,
+        "longitude": -119.79
+    },
+    {
+        "rank": 34,
+        "name": "Tucson",
+        "region": "Arizona",
+        "population": 542629,
+        "latitude": 32.15,
+        "longitude": -110.87
+    },
+    {
+        "rank": 35,
+        "name": "Sacramento",
+        "region": "California",
+        "population": 524943,
+        "latitude": 38.56,
+        "longitude": -121.46
+    },
+    {
+        "rank": 36,
+        "name": "Mesa",
+        "region": "Arizona",
+        "population": 504258,
+        "latitude": 33.4,
+        "longitude": -111.71
+    },
+    {
+        "rank": 37,
+        "name": "Kansas City",
+        "region": "Missouri",
+        "population": 508090,
+        "latitude": 39.12,
+        "longitude": -94.55
+    },
+    {
+        "rank": 38,
+        "name": "Atlanta",
+        "region": "Georgia",
+        "population": 498715,
+        "latitude": 33.76,
+        "longitude": -84.42
+    },
+    {
+        "rank": 39,
+        "name": "Omaha",
+        "region": "Nebraska",
+        "population": 486051,
+        "latitude": 41.26,
+        "longitude": -96.04
+    },
+    {
+        "rank": 40,
+        "name": "Colorado Springs",
+        "region": "Colorado",
+        "population": 478961,
+        "latitude": 38.86,
+        "longitude": -104.76
+    },
+    {
+        "rank": 41,
+        "name": "Raleigh",
+        "region": "North Carolina",
+        "population": 467665,
+        "latitude": 35.83,
+        "longitude": -78.64
+    },
+    {
+        "rank": 42,
+        "name": "Virginia Beach",
+        "region": "Virginia",
+        "population": 459470,
+        "latitude": 36.78,
+        "longitude": -76.02
+    },
+    {
+        "rank": 43,
+        "name": "Long Beach",
+        "region": "California",
+        "population": 466742,
+        "latitude": 33.8,
+        "longitude": -118.15
+    },
+    {
+        "rank": 44,
+        "name": "Miami",
+        "region": "Florida",
+        "population": 442241,
+        "latitude": 25.77,
+        "longitude": -80.2
+    },
+    {
+        "rank": 45,
+        "name": "Oakland",
+        "region": "California",
+        "population": 440646,
+        "latitude": 37.76,
+        "longitude": -122.22
+    },
+    {
+        "rank": 46,
+        "name": "Minneapolis",
+        "region": "Minnesota",
+        "population": 429954,
+        "latitude": 44.96,
+        "longitude": -93.26
+    },
+    {
+        "rank": 47,
+        "name": "Tulsa",
+        "region": "Oklahoma",
+        "population": 413066,
+        "latitude": 36.12,
+        "longitude": -95.9
+    },
+    {
+        "rank": 48,
+        "name": "Bakersfield",
+        "region": "California",
+        "population": 403455,
+        "latitude": 35.32,
+        "longitude": -119.01
+    },
+    {
+        "rank": 49,
+        "name": "Wichita",
+        "region": "Kansas",
+        "population": 397532,
+        "latitude": 37.69,
+        "longitude": -97.34
+    },
+    {
+        "rank": 50,
+        "name": "Arlington",
+        "region": "Texas",
+        "population": 394266,
+        "latitude": 32.7,
+        "longitude": -97.12
+    },
+    {
+        "rank": 51,
+        "name": "Aurora",
+        "region": "Colorado",
+        "population": 386261,
+        "latitude": 39.68,
+        "longitude": -104.68
+    },
+    {
+        "rank": 52,
+        "name": "Tampa",
+        "region": "Florida",
+        "population": 384959,
+        "latitude": 27.97,
+        "longitude": -82.47
+    },
+    {
+        "rank": 53,
+        "name": "New Orleans",
+        "region": "Louisiana",
+        "population": 383997,
+        "latitude": 30.05,
+        "longitude": -89.93
+    },
+    {
+        "rank": 54,
+        "name": "Cleveland",
+        "region": "Ohio",
+        "population": 372624,
+        "latitude": 41.47,
+        "longitude": -81.67
+    },
+    {
+        "rank": 55,
+        "name": "Anaheim",
+        "region": "California",
+        "population": 346824,
+        "latitude": 33.85,
+        "longitude": -117.76
+    },
+    {
+        "rank": 56,
+        "name": "Honolulu",
+        "region": "Hawaii",
+        "population": 350964,
+        "latitude": 21.32,
+        "longitude": -157.84
+    },
+    {
+        "rank": 57,
+        "name": "Henderson",
+        "region": "Nevada",
+        "population": 317610,
+        "latitude": 36.0,
+        "longitude": -115.03
+    },
+    {
+        "rank": 58,
+        "name": "Stockton",
+        "region": "California",
+        "population": 320804,
+        "latitude": 37.97,
+        "longitude": -121.31
+    },
+    {
+        "rank": 59,
+        "name": "Lexington",
+        "region": "Kentucky",
+        "population": 322570,
+        "latitude": 38.04,
+        "longitude": -84.45
+    },
+    {
+        "rank": 60,
+        "name": "Corpus Christi",
+        "region": "Texas",
+        "population": 317863,
+        "latitude": 27.75,
+        "longitude": -97.17
+    },
+    {
+        "rank": 61,
+        "name": "Riverside",
+        "region": "California",
+        "population": 314998,
+        "latitude": 33.93,
+        "longitude": -117.39
+    },
+    {
+        "rank": 62,
+        "name": "Santa Ana",
+        "region": "California",
+        "population": 310227,
+        "latitude": 33.73,
+        "longitude": -117.88
+    },
+    {
+        "rank": 63,
+        "name": "Orlando",
+        "region": "Florida",
+        "population": 307573,
+        "latitude": 28.41,
+        "longitude": -81.27
+    },
+    {
+        "rank": 64,
+        "name": "Irvine",
+        "region": "California",
+        "population": 307670,
+        "latitude": 33.67,
+        "longitude": -117.77
+    },
+    {
+        "rank": 65,
+        "name": "Cincinnati",
+        "region": "Ohio",
+        "population": 309317,
+        "latitude": 39.14,
+        "longitude": -84.5
+    },
+    {
+        "rank": 66,
+        "name": "Newark",
+        "region": "New Jersey",
+        "population": 311549,
+        "latitude": 40.72,
+        "longitude": -74.17
+    },
+    {
+        "rank": 67,
+        "name": "Saint Paul",
+        "region": "Minnesota",
+        "population": 311527,
+        "latitude": 44.94,
+        "longitude": -93.1
+    },
+    {
+        "rank": 68,
+        "name": "Pittsburgh",
+        "region": "Pennsylvania",
+        "population": 302971,
+        "latitude": 40.43,
+        "longitude": -79.97
+    },
+    {
+        "rank": 69,
+        "name": "Greensboro",
+        "region": "North Carolina",
+        "population": 299035,
+        "latitude": 36.09,
+        "longitude": -79.82
+    },
+    {
+        "rank": 70,
+        "name": "St. Louis",
+        "region": "Missouri",
+        "population": 301578,
+        "latitude": 38.63,
+        "longitude": -90.24
+    },
+    {
+        "rank": 71,
+        "name": "Lincoln",
+        "region": "Nebraska",
+        "population": 291082,
+        "latitude": 40.81,
+        "longitude": -96.68
+    },
+    {
+        "rank": 72,
+        "name": "Plano",
+        "region": "Texas",
+        "population": 285494,
+        "latitude": 33.05,
+        "longitude": -96.74
+    },
+    {
+        "rank": 73,
+        "name": "Anchorage",
+        "region": "Alaska",
+        "population": 291247,
+        "latitude": 61.17,
+        "longitude": -149.28
+    },
+    {
+        "rank": 74,
+        "name": "Durham",
+        "region": "North Carolina",
+        "population": 283506,
+        "latitude": 35.98,
+        "longitude": -78.9
+    },
+    {
+        "rank": 75,
+        "name": "Jersey City",
+        "region": "New Jersey",
+        "population": 292449,
+        "latitude": 40.71,
+        "longitude": -74.06
+    },
+    {
+        "rank": 76,
+        "name": "Chandler",
+        "region": "Arizona",
+        "population": 275987,
+        "latitude": 33.28,
+        "longitude": -111.85
+    },
+    {
+        "rank": 77,
+        "name": "Chula Vista",
+        "region": "California",
+        "population": 275487,
+        "latitude": 32.62,
+        "longitude": -117.01
+    },
+    {
+        "rank": 78,
+        "name": "Buffalo",
+        "region": "New York",
+        "population": 278349,
+        "latitude": 42.89,
+        "longitude": -78.85
+    },
+    {
+        "rank": 79,
+        "name": "North Las Vegas",
+        "region": "Nevada",
+        "population": 262527,
+        "latitude": 36.28,
+        "longitude": -115.09
+    },
+    {
+        "rank": 80,
+        "name": "Gilbert",
+        "region": "Arizona",
+        "population": 267918,
+        "latitude": 33.31,
+        "longitude": -111.74
+    },
+    {
+        "rank": 81,
+        "name": "Madison",
+        "region": "Wisconsin",
+        "population": 269840,
+        "latitude": 43.08,
+        "longitude": -89.42
+    },
+    {
+        "rank": 82,
+        "name": "Reno",
+        "region": "Nevada",
+        "population": 264165,
+        "latitude": 39.54,
+        "longitude": -119.84
+    },
+    {
+        "rank": 83,
+        "name": "Toledo",
+        "region": "Ohio",
+        "population": 270871,
+        "latitude": 41.66,
+        "longitude": -83.58
+    },
+    {
+        "rank": 84,
+        "name": "Fort Wayne",
+        "region": "Indiana",
+        "population": 263886,
+        "latitude": 41.08,
+        "longitude": -85.14
+    },
+    {
+        "rank": 85,
+        "name": "Lubbock",
+        "region": "Texas",
+        "population": 257141,
+        "latitude": 33.56,
+        "longitude": -101.88
+    },
+    {
+        "rank": 86,
+        "name": "St. Petersburg",
+        "region": "Florida",
+        "population": 258308,
+        "latitude": 27.76,
+        "longitude": -82.64
+    },
+    {
+        "rank": 87,
+        "name": "Laredo",
+        "region": "Texas",
+        "population": 255205,
+        "latitude": 27.56,
+        "longitude": -99.48
+    },
+    {
+        "rank": 88,
+        "name": "Irving",
+        "region": "Texas",
+        "population": 256684,
+        "latitude": 32.85,
+        "longitude": -96.97
+    },
+    {
+        "rank": 89,
+        "name": "Chesapeake",
+        "region": "Virginia",
+        "population": 249422,
+        "latitude": 36.67,
+        "longitude": -76.3
+    },
+    {
+        "rank": 90,
+        "name": "Winston\u2013Salem",
+        "region": "North Carolina",
+        "population": 249545,
+        "latitude": 36.1,
+        "longitude": -80.26
+    },
+    {
+        "rank": 91,
+        "name": "Glendale",
+        "region": "Arizona",
+        "population": 248325,
+        "latitude": 33.53,
+        "longitude": -112.18
+    },
+    {
+        "rank": 92,
+        "name": "Scottsdale",
+        "region": "Arizona",
+        "population": 241361,
+        "latitude": 33.68,
+        "longitude": -111.86
+    },
+    {
+        "rank": 93,
+        "name": "Garland",
+        "region": "Texas",
+        "population": 246018,
+        "latitude": 32.9,
+        "longitude": -96.63
+    },
+    {
+        "rank": 94,
+        "name": "Boise",
+        "region": "Idaho",
+        "population": 235684,
+        "latitude": 43.6,
+        "longitude": -116.23
+    },
+    {
+        "rank": 95,
+        "name": "Norfolk",
+        "region": "Virginia",
+        "population": 238005,
+        "latitude": 36.92,
+        "longitude": -76.24
+    },
+    {
+        "rank": 96,
+        "name": "Spokane",
+        "region": "Washington",
+        "population": 228989,
+        "latitude": 47.66,
+        "longitude": -117.43
+    },
+    {
+        "rank": 97,
+        "name": "Fremont",
+        "region": "California",
+        "population": 230504,
+        "latitude": 37.49,
+        "longitude": -121.94
+    },
+    {
+        "rank": 98,
+        "name": "Richmond",
+        "region": "Virginia",
+        "population": 226610,
+        "latitude": 37.53,
+        "longitude": -77.47
+    },
+    {
+        "rank": 99,
+        "name": "Santa Clarita",
+        "region": "California",
+        "population": 228673,
+        "latitude": 34.4,
+        "longitude": -118.5
+    },
+    {
+        "rank": 100,
+        "name": "San Bernardino",
+        "region": "California",
+        "population": 222101,
+        "latitude": 34.14,
+        "longitude": -117.29
+    },
+    {
+        "rank": 101,
+        "name": "Baton Rouge",
+        "region": "Louisiana",
+        "population": 227470,
+        "latitude": 30.44,
+        "longitude": -91.13
+    },
+    {
+        "rank": 102,
+        "name": "Hialeah",
+        "region": "Florida",
+        "population": 223109,
+        "latitude": 25.86,
+        "longitude": -80.3
+    },
+    {
+        "rank": 103,
+        "name": "Tacoma",
+        "region": "Washington",
+        "population": 219346,
+        "latitude": 47.25,
+        "longitude": -122.45
+    },
+    {
+        "rank": 104,
+        "name": "Modesto",
+        "region": "California",
+        "population": 218464,
+        "latitude": 37.63,
+        "longitude": -121.0
+    },
+    {
+        "rank": 105,
+        "name": "Port St. Lucie",
+        "region": "Florida",
+        "population": 204851,
+        "latitude": 27.28,
+        "longitude": -80.38
+    },
+    {
+        "rank": 106,
+        "name": "Huntsville",
+        "region": "Alabama",
+        "population": 215006,
+        "latitude": 34.69,
+        "longitude": -86.67
+    },
+    {
+        "rank": 107,
+        "name": "Des Moines",
+        "region": "Iowa",
+        "population": 214133,
+        "latitude": 41.57,
+        "longitude": -93.61
+    },
+    {
+        "rank": 108,
+        "name": "Moreno Valley",
+        "region": "California",
+        "population": 208634,
+        "latitude": 33.92,
+        "longitude": -117.2
+    },
+    {
+        "rank": 109,
+        "name": "Fontana",
+        "region": "California",
+        "population": 208393,
+        "latitude": 34.1,
+        "longitude": -117.46
+    },
+    {
+        "rank": 110,
+        "name": "Frisco",
+        "region": "Texas",
+        "population": 200509,
+        "latitude": 33.15,
+        "longitude": -96.82
+    },
+    {
+        "rank": 111,
+        "name": "Rochester",
+        "region": "New York",
+        "population": 211328,
+        "latitude": 43.16,
+        "longitude": -77.61
+    },
+    {
+        "rank": 112,
+        "name": "Yonkers",
+        "region": "New York",
+        "population": 211569,
+        "latitude": 40.94,
+        "longitude": -73.86
+    },
+    {
+        "rank": 113,
+        "name": "Fayetteville",
+        "region": "North Carolina",
+        "population": 208501,
+        "latitude": 35.08,
+        "longitude": -78.97
+    },
+    {
+        "rank": 114,
+        "name": "Worcester",
+        "region": "Massachusetts",
+        "population": 206518,
+        "latitude": 42.26,
+        "longitude": -71.8
+    },
+    {
+        "rank": 115,
+        "name": "Columbus",
+        "region": "Georgia",
+        "population": 206922,
+        "latitude": 32.51,
+        "longitude": -84.87
+    },
+    {
+        "rank": 116,
+        "name": "Cape Coral",
+        "region": "Florida",
+        "population": 194016,
+        "latitude": 26.64,
+        "longitude": -81.99
+    },
+    {
+        "rank": 117,
+        "name": "McKinney",
+        "region": "Texas",
+        "population": 195308,
+        "latitude": 33.19,
+        "longitude": -96.66
+    },
+    {
+        "rank": 118,
+        "name": "Little Rock",
+        "region": "Arkansas",
+        "population": 202591,
+        "latitude": 34.72,
+        "longitude": -92.35
+    },
+    {
+        "rank": 119,
+        "name": "Oxnard",
+        "region": "California",
+        "population": 202063,
+        "latitude": 34.2,
+        "longitude": -119.2
+    },
+    {
+        "rank": 120,
+        "name": "Amarillo",
+        "region": "Texas",
+        "population": 200393,
+        "latitude": 35.19,
+        "longitude": -101.83
+    },
+    {
+        "rank": 121,
+        "name": "Augusta",
+        "region": "Georgia",
+        "population": 202081,
+        "latitude": 33.36,
+        "longitude": -82.07
+    },
+    {
+        "rank": 122,
+        "name": "Salt Lake City",
+        "region": "Utah",
+        "population": 199723,
+        "latitude": 40.77,
+        "longitude": -111.93
+    },
+    {
+        "rank": 123,
+        "name": "Montgomery",
+        "region": "Alabama",
+        "population": 200603,
+        "latitude": 32.34,
+        "longitude": -86.26
+    },
+    {
+        "rank": 124,
+        "name": "Birmingham",
+        "region": "Alabama",
+        "population": 200733,
+        "latitude": 33.52,
+        "longitude": -86.79
+    },
+    {
+        "rank": 125,
+        "name": "Grand Rapids",
+        "region": "Michigan",
+        "population": 198917,
+        "latitude": 42.96,
+        "longitude": -85.65
+    },
+    {
+        "rank": 126,
+        "name": "Grand Prairie",
+        "region": "Texas",
+        "population": 196100,
+        "latitude": 32.68,
+        "longitude": -97.02
+    },
+    {
+        "rank": 127,
+        "name": "Overland Park",
+        "region": "Kansas",
+        "population": 197238,
+        "latitude": 38.88,
+        "longitude": -94.69
+    },
+    {
+        "rank": 128,
+        "name": "Tallahassee",
+        "region": "Florida",
+        "population": 196169,
+        "latitude": 30.45,
+        "longitude": -84.25
+    },
+    {
+        "rank": 129,
+        "name": "Huntington Beach",
+        "region": "California",
+        "population": 198711,
+        "latitude": 33.69,
+        "longitude": -118.0
+    },
+    {
+        "rank": 130,
+        "name": "Sioux Falls",
+        "region": "South Dakota",
+        "population": 192517,
+        "latitude": 43.53,
+        "longitude": -96.73
+    },
+    {
+        "rank": 131,
+        "name": "Peoria",
+        "region": "Arizona",
+        "population": 190985,
+        "latitude": 33.78,
+        "longitude": -112.3
+    },
+    {
+        "rank": 132,
+        "name": "Knoxville",
+        "region": "Tennessee",
+        "population": 190740,
+        "latitude": 35.97,
+        "longitude": -83.94
+    },
+    {
+        "rank": 133,
+        "name": "Glendale",
+        "region": "California",
+        "population": 196543,
+        "latitude": 34.18,
+        "longitude": -118.24
+    },
+    {
+        "rank": 134,
+        "name": "Vancouver",
+        "region": "Washington",
+        "population": 190915,
+        "latitude": 45.63,
+        "longitude": -122.59
+    },
+    {
+        "rank": 135,
+        "name": "Providence",
+        "region": "Rhode Island",
+        "population": 190934,
+        "latitude": 41.82,
+        "longitude": -71.41
+    },
+    {
+        "rank": 136,
+        "name": "Akron",
+        "region": "Ohio",
+        "population": 190469,
+        "latitude": 41.08,
+        "longitude": -81.52
+    },
+    {
+        "rank": 137,
+        "name": "Brownsville",
+        "region": "Texas",
+        "population": 186738,
+        "latitude": 25.99,
+        "longitude": -97.45
+    },
+    {
+        "rank": 138,
+        "name": "Mobile",
+        "region": "Alabama",
+        "population": 187041,
+        "latitude": 30.66,
+        "longitude": -88.1
+    },
+    {
+        "rank": 139,
+        "name": "Newport News",
+        "region": "Virginia",
+        "population": 186247,
+        "latitude": 37.07,
+        "longitude": -76.52
+    },
+    {
+        "rank": 140,
+        "name": "Tempe",
+        "region": "Arizona",
+        "population": 180587,
+        "latitude": 33.38,
+        "longitude": -111.93
+    },
+    {
+        "rank": 141,
+        "name": "Shreveport",
+        "region": "Louisiana",
+        "population": 187593,
+        "latitude": 32.46,
+        "longitude": -93.79
+    },
+    {
+        "rank": 142,
+        "name": "Chattanooga",
+        "region": "Tennessee",
+        "population": 181099,
+        "latitude": 35.06,
+        "longitude": -85.24
+    },
+    {
+        "rank": 143,
+        "name": "Fort Lauderdale",
+        "region": "Florida",
+        "population": 182760,
+        "latitude": 26.14,
+        "longitude": -80.14
+    },
+    {
+        "rank": 144,
+        "name": "Aurora",
+        "region": "Illinois",
+        "population": 180542,
+        "latitude": 41.76,
+        "longitude": -88.29
+    },
+    {
+        "rank": 145,
+        "name": "Elk Grove",
+        "region": "California",
+        "population": 176124,
+        "latitude": 38.41,
+        "longitude": -121.38
+    },
+    {
+        "rank": 146,
+        "name": "Ontario",
+        "region": "California",
+        "population": 175265,
+        "latitude": 34.03,
+        "longitude": -117.6
+    },
+    {
+        "rank": 147,
+        "name": "Salem",
+        "region": "Oregon",
+        "population": 175535,
+        "latitude": 44.92,
+        "longitude": -123.02
+    },
+    {
+        "rank": 148,
+        "name": "Cary",
+        "region": "North Carolina",
+        "population": 174721,
+        "latitude": 35.78,
+        "longitude": -78.81
+    },
+    {
+        "rank": 149,
+        "name": "Santa Rosa",
+        "region": "California",
+        "population": 178127,
+        "latitude": 38.44,
+        "longitude": -122.7
+    },
+    {
+        "rank": 150,
+        "name": "Rancho Cucamonga",
+        "region": "California",
+        "population": 174453,
+        "latitude": 34.12,
+        "longitude": -117.56
+    }
+]

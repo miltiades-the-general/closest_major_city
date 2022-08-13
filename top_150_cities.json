@@ -1,0 +1,1952 @@
+[
+    {
+        "rank": 1,
+        "name": "New York",
+        "region": "New York",
+        "population": 8804190,
+        "latitude": 40.66,
+        "longitude": -73.93,
+        "closestCity": {
+            "name": "Jersey City",
+            "region": "New Jersey",
+            "distance": 7.6454052759250075
+        }
+    },
+    {
+        "rank": 2,
+        "name": "Los Angeles",
+        "region": "California",
+        "population": 3898747,
+        "latitude": 34.01,
+        "longitude": -118.41,
+        "closestCity": {
+            "name": "Glendale",
+            "region": "California",
+            "distance": 15.266823887814562
+        }
+    },
+    {
+        "rank": 3,
+        "name": "Chicago",
+        "region": "Illinois",
+        "population": 2746388,
+        "latitude": 41.83,
+        "longitude": -87.68,
+        "closestCity": {
+            "name": "Aurora",
+            "region": "Illinois",
+            "distance": 31.826031936406554
+        }
+    },
+    {
+        "rank": 4,
+        "name": "Houston",
+        "region": "Texas",
+        "population": 2304580,
+        "latitude": 29.78,
+        "longitude": -95.39,
+        "closestCity": {
+            "name": "Austin",
+            "region": "Texas",
+            "distance": 145.81081387155353
+        }
+    },
+    {
+        "rank": 5,
+        "name": "Phoenix",
+        "region": "Arizona",
+        "population": 1608139,
+        "latitude": 33.57,
+        "longitude": -112.09,
+        "closestCity": {
+            "name": "Glendale",
+            "region": "Arizona",
+            "distance": 5.879615816335505
+        }
+    },
+    {
+        "rank": 6,
+        "name": "Philadelphia",
+        "region": "Pennsylvania",
+        "population": 1603797,
+        "latitude": 40.0,
+        "longitude": -75.13,
+        "closestCity": {
+            "name": "Newark",
+            "region": "New Jersey",
+            "distance": 70.99287141521917
+        }
+    },
+    {
+        "rank": 7,
+        "name": "San Antonio",
+        "region": "Texas",
+        "population": 1434625,
+        "latitude": 29.47,
+        "longitude": -98.52,
+        "closestCity": {
+            "name": "Austin",
+            "region": "Texas",
+            "distance": 73.67504036442453
+        }
+    },
+    {
+        "rank": 8,
+        "name": "San Diego",
+        "region": "California",
+        "population": 1386932,
+        "latitude": 32.81,
+        "longitude": -117.13,
+        "closestCity": {
+            "name": "Chula Vista",
+            "region": "California",
+            "distance": 14.882048722873794
+        }
+    },
+    {
+        "rank": 9,
+        "name": "Dallas",
+        "region": "Texas",
+        "population": 1304379,
+        "latitude": 32.79,
+        "longitude": -96.76,
+        "closestCity": {
+            "name": "Garland",
+            "region": "Texas",
+            "distance": 10.721756776008663
+        }
+    },
+    {
+        "rank": 10,
+        "name": "San Jose",
+        "region": "California",
+        "population": 1013240,
+        "latitude": 37.29,
+        "longitude": -121.81,
+        "closestCity": {
+            "name": "Fremont",
+            "region": "California",
+            "distance": 15.569320675602365
+        }
+    },
+    {
+        "rank": 11,
+        "name": "Austin",
+        "region": "Texas",
+        "population": 961855,
+        "latitude": 30.3,
+        "longitude": -97.75,
+        "closestCity": {
+            "name": "San Antonio",
+            "region": "Texas",
+            "distance": 73.67504036442453
+        }
+    },
+    {
+        "rank": 12,
+        "name": "Jacksonville",
+        "region": "Florida",
+        "population": 949611,
+        "latitude": 30.33,
+        "longitude": -81.66,
+        "closestCity": {
+            "name": "Orlando",
+            "region": "Florida",
+            "distance": 134.86565847469848
+        }
+    },
+    {
+        "rank": 13,
+        "name": "Fort Worth",
+        "region": "Texas",
+        "population": 918915,
+        "latitude": 32.78,
+        "longitude": -97.34,
+        "closestCity": {
+            "name": "Arlington",
+            "region": "Texas",
+            "distance": 13.944263777912749
+        }
+    },
+    {
+        "rank": 14,
+        "name": "Columbus",
+        "region": "Ohio",
+        "population": 905748,
+        "latitude": 39.98,
+        "longitude": -82.98,
+        "closestCity": {
+            "name": "Cincinnati",
+            "region": "Ohio",
+            "distance": 99.72440851557677
+        }
+    },
+    {
+        "rank": 15,
+        "name": "Indianapolis",
+        "region": "Indiana",
+        "population": 887642,
+        "latitude": 39.77,
+        "longitude": -86.14,
+        "closestCity": {
+            "name": "Cincinnati",
+            "region": "Ohio",
+            "distance": 97.82432015322186
+        }
+    },
+    {
+        "rank": 16,
+        "name": "Charlotte",
+        "region": "North Carolina",
+        "population": 874579,
+        "latitude": 35.2,
+        "longitude": -80.83,
+        "closestCity": {
+            "name": "Winston\u2013Salem",
+            "region": "North Carolina",
+            "distance": 70.01031526980672
+        }
+    },
+    {
+        "rank": 17,
+        "name": "San Francisco",
+        "region": "California",
+        "population": 873965,
+        "latitude": 37.72,
+        "longitude": -122.5,
+        "closestCity": {
+            "name": "Oakland",
+            "region": "California",
+            "distance": 15.563141235812044
+        }
+    },
+    {
+        "rank": 18,
+        "name": "Seattle",
+        "region": "Washington",
+        "population": 737015,
+        "latitude": 47.62,
+        "longitude": -122.35,
+        "closestCity": {
+            "name": "Tacoma",
+            "region": "Washington",
+            "distance": 26.016087412989346
+        }
+    },
+    {
+        "rank": 19,
+        "name": "Denver",
+        "region": "Colorado",
+        "population": 715522,
+        "latitude": 39.76,
+        "longitude": -104.88,
+        "closestCity": {
+            "name": "Aurora",
+            "region": "Colorado",
+            "distance": 11.99317214149356
+        }
+    },
+    {
+        "rank": 20,
+        "name": "Oklahoma City",
+        "region": "Oklahoma",
+        "population": 681054,
+        "latitude": 35.46,
+        "longitude": -97.51,
+        "closestCity": {
+            "name": "Tulsa",
+            "region": "Oklahoma",
+            "distance": 101.20893484692407
+        }
+    },
+    {
+        "rank": 21,
+        "name": "Nashville",
+        "region": "Tennessee",
+        "population": 689447,
+        "latitude": 36.17,
+        "longitude": -86.78,
+        "closestCity": {
+            "name": "Huntsville",
+            "region": "Alabama",
+            "distance": 102.55527678150423
+        }
+    },
+    {
+        "rank": 22,
+        "name": "El Paso",
+        "region": "Texas",
+        "population": 678815,
+        "latitude": 31.84,
+        "longitude": -106.42,
+        "closestCity": {
+            "name": "Albuquerque",
+            "region": "New Mexico",
+            "distance": 225.84249682996867
+        }
+    },
+    {
+        "rank": 23,
+        "name": "Washington",
+        "region": "District of Columbia",
+        "population": 689545,
+        "latitude": 38.9,
+        "longitude": -77.01,
+        "closestCity": {
+            "name": "Baltimore",
+            "region": "Maryland",
+            "distance": 35.02072911453945
+        }
+    },
+    {
+        "rank": 24,
+        "name": "Boston",
+        "region": "Massachusetts",
+        "population": 675647,
+        "latitude": 42.33,
+        "longitude": -71.02,
+        "closestCity": {
+            "name": "Worcester",
+            "region": "Massachusetts",
+            "distance": 40.19918105082729
+        }
+    },
+    {
+        "rank": 25,
+        "name": "Las Vegas",
+        "region": "Nevada",
+        "population": 641903,
+        "latitude": 36.22,
+        "longitude": -115.26,
+        "closestCity": {
+            "name": "North Las Vegas",
+            "region": "Nevada",
+            "distance": 10.35091663116448
+        }
+    },
+    {
+        "rank": 26,
+        "name": "Portland",
+        "region": "Oregon",
+        "population": 652503,
+        "latitude": 45.53,
+        "longitude": -122.65,
+        "closestCity": {
+            "name": "Vancouver",
+            "region": "Washington",
+            "distance": 7.50189170591797
+        }
+    },
+    {
+        "rank": 27,
+        "name": "Detroit",
+        "region": "Michigan",
+        "population": 639111,
+        "latitude": 42.38,
+        "longitude": -83.1,
+        "closestCity": {
+            "name": "Toledo",
+            "region": "Ohio",
+            "distance": 55.573566562559556
+        }
+    },
+    {
+        "rank": 28,
+        "name": "Louisville",
+        "region": "Kentucky",
+        "population": 633045,
+        "latitude": 38.16,
+        "longitude": -85.64,
+        "closestCity": {
+            "name": "Lexington",
+            "region": "Kentucky",
+            "distance": 65.30115646711124
+        }
+    },
+    {
+        "rank": 29,
+        "name": "Memphis",
+        "region": "Tennessee",
+        "population": 633104,
+        "latitude": 35.1,
+        "longitude": -89.97,
+        "closestCity": {
+            "name": "Little Rock",
+            "region": "Arkansas",
+            "distance": 137.52684285224927
+        }
+    },
+    {
+        "rank": 30,
+        "name": "Baltimore",
+        "region": "Maryland",
+        "population": 585708,
+        "latitude": 39.3,
+        "longitude": -76.61,
+        "closestCity": {
+            "name": "Washington",
+            "region": "District of Columbia",
+            "distance": 35.02072911453945
+        }
+    },
+    {
+        "rank": 31,
+        "name": "Milwaukee",
+        "region": "Wisconsin",
+        "population": 577222,
+        "latitude": 43.06,
+        "longitude": -87.96,
+        "closestCity": {
+            "name": "Madison",
+            "region": "Wisconsin",
+            "distance": 73.78315574339885
+        }
+    },
+    {
+        "rank": 32,
+        "name": "Albuquerque",
+        "region": "New Mexico",
+        "population": 564559,
+        "latitude": 35.1,
+        "longitude": -106.64,
+        "closestCity": {
+            "name": "El Paso",
+            "region": "Texas",
+            "distance": 225.84249682996867
+        }
+    },
+    {
+        "rank": 33,
+        "name": "Fresno",
+        "region": "California",
+        "population": 542107,
+        "latitude": 36.78,
+        "longitude": -119.79,
+        "closestCity": {
+            "name": "Modesto",
+            "region": "California",
+            "distance": 88.88025697073724
+        }
+    },
+    {
+        "rank": 34,
+        "name": "Tucson",
+        "region": "Arizona",
+        "population": 542629,
+        "latitude": 32.15,
+        "longitude": -110.87,
+        "closestCity": {
+            "name": "Gilbert",
+            "region": "Arizona",
+            "distance": 94.86749457576505
+        }
+    },
+    {
+        "rank": 35,
+        "name": "Sacramento",
+        "region": "California",
+        "population": 524943,
+        "latitude": 38.56,
+        "longitude": -121.46,
+        "closestCity": {
+            "name": "Elk Grove",
+            "region": "California",
+            "distance": 11.242940724135066
+        }
+    },
+    {
+        "rank": 36,
+        "name": "Mesa",
+        "region": "Arizona",
+        "population": 504258,
+        "latitude": 33.4,
+        "longitude": -111.71,
+        "closestCity": {
+            "name": "Gilbert",
+            "region": "Arizona",
+            "distance": 6.461850319602027
+        }
+    },
+    {
+        "rank": 37,
+        "name": "Kansas City",
+        "region": "Missouri",
+        "population": 508090,
+        "latitude": 39.12,
+        "longitude": -94.55,
+        "closestCity": {
+            "name": "Overland Park",
+            "region": "Kansas",
+            "distance": 18.22629596711734
+        }
+    },
+    {
+        "rank": 38,
+        "name": "Atlanta",
+        "region": "Georgia",
+        "population": 498715,
+        "latitude": 33.76,
+        "longitude": -84.42,
+        "closestCity": {
+            "name": "Columbus",
+            "region": "Georgia",
+            "distance": 90.30207685408772
+        }
+    },
+    {
+        "rank": 39,
+        "name": "Omaha",
+        "region": "Nebraska",
+        "population": 486051,
+        "latitude": 41.26,
+        "longitude": -96.04,
+        "closestCity": {
+            "name": "Lincoln",
+            "region": "Nebraska",
+            "distance": 45.64785700525442
+        }
+    },
+    {
+        "rank": 40,
+        "name": "Colorado Springs",
+        "region": "Colorado",
+        "population": 478961,
+        "latitude": 38.86,
+        "longitude": -104.76,
+        "closestCity": {
+            "name": "Aurora",
+            "region": "Colorado",
+            "distance": 56.878803516266544
+        }
+    },
+    {
+        "rank": 41,
+        "name": "Raleigh",
+        "region": "North Carolina",
+        "population": 467665,
+        "latitude": 35.83,
+        "longitude": -78.64,
+        "closestCity": {
+            "name": "Cary",
+            "region": "North Carolina",
+            "distance": 10.143989698401569
+        }
+    },
+    {
+        "rank": 42,
+        "name": "Virginia Beach",
+        "region": "Virginia",
+        "population": 459470,
+        "latitude": 36.78,
+        "longitude": -76.02,
+        "closestCity": {
+            "name": "Norfolk",
+            "region": "Virginia",
+            "distance": 15.557603691220132
+        }
+    },
+    {
+        "rank": 43,
+        "name": "Long Beach",
+        "region": "California",
+        "population": 466742,
+        "latitude": 33.8,
+        "longitude": -118.15,
+        "closestCity": {
+            "name": "Huntington Beach",
+            "region": "California",
+            "distance": 11.502808396613414
+        }
+    },
+    {
+        "rank": 44,
+        "name": "Miami",
+        "region": "Florida",
+        "population": 442241,
+        "latitude": 25.77,
+        "longitude": -80.2,
+        "closestCity": {
+            "name": "Hialeah",
+            "region": "Florida",
+            "distance": 8.804573360245012
+        }
+    },
+    {
+        "rank": 45,
+        "name": "Oakland",
+        "region": "California",
+        "population": 440646,
+        "latitude": 37.76,
+        "longitude": -122.22,
+        "closestCity": {
+            "name": "San Francisco",
+            "region": "California",
+            "distance": 15.563141235812044
+        }
+    },
+    {
+        "rank": 46,
+        "name": "Minneapolis",
+        "region": "Minnesota",
+        "population": 429954,
+        "latitude": 44.96,
+        "longitude": -93.26,
+        "closestCity": {
+            "name": "Saint Paul",
+            "region": "Minnesota",
+            "distance": 7.9534494772720405
+        }
+    },
+    {
+        "rank": 47,
+        "name": "Tulsa",
+        "region": "Oklahoma",
+        "population": 413066,
+        "latitude": 36.12,
+        "longitude": -95.9,
+        "closestCity": {
+            "name": "Oklahoma City",
+            "region": "Oklahoma",
+            "distance": 101.20893484692407
+        }
+    },
+    {
+        "rank": 48,
+        "name": "Bakersfield",
+        "region": "California",
+        "population": 403455,
+        "latitude": 35.32,
+        "longitude": -119.01,
+        "closestCity": {
+            "name": "Santa Clarita",
+            "region": "California",
+            "distance": 69.90756793229333
+        }
+    },
+    {
+        "rank": 49,
+        "name": "Wichita",
+        "region": "Kansas",
+        "population": 397532,
+        "latitude": 37.69,
+        "longitude": -97.34,
+        "closestCity": {
+            "name": "Tulsa",
+            "region": "Oklahoma",
+            "distance": 134.66406995655638
+        }
+    },
+    {
+        "rank": 50,
+        "name": "Arlington",
+        "region": "Texas",
+        "population": 394266,
+        "latitude": 32.7,
+        "longitude": -97.12,
+        "closestCity": {
+            "name": "Grand Prairie",
+            "region": "Texas",
+            "distance": 5.983275828643902
+        }
+    },
+    {
+        "rank": 51,
+        "name": "Aurora",
+        "region": "Colorado",
+        "population": 386261,
+        "latitude": 39.68,
+        "longitude": -104.68,
+        "closestCity": {
+            "name": "Denver",
+            "region": "Colorado",
+            "distance": 11.99317214149356
+        }
+    },
+    {
+        "rank": 52,
+        "name": "Tampa",
+        "region": "Florida",
+        "population": 384959,
+        "latitude": 27.97,
+        "longitude": -82.47,
+        "closestCity": {
+            "name": "St. Petersburg",
+            "region": "Florida",
+            "distance": 17.861621834996413
+        }
+    },
+    {
+        "rank": 53,
+        "name": "New Orleans",
+        "region": "Louisiana",
+        "population": 383997,
+        "latitude": 30.05,
+        "longitude": -89.93,
+        "closestCity": {
+            "name": "Baton Rouge",
+            "region": "Louisiana",
+            "distance": 76.60850582011625
+        }
+    },
+    {
+        "rank": 54,
+        "name": "Cleveland",
+        "region": "Ohio",
+        "population": 372624,
+        "latitude": 41.47,
+        "longitude": -81.67,
+        "closestCity": {
+            "name": "Akron",
+            "region": "Ohio",
+            "distance": 28.079622804242554
+        }
+    },
+    {
+        "rank": 55,
+        "name": "Anaheim",
+        "region": "California",
+        "population": 346824,
+        "latitude": 33.85,
+        "longitude": -117.76,
+        "closestCity": {
+            "name": "Santa Ana",
+            "region": "California",
+            "distance": 10.792335355727015
+        }
+    },
+    {
+        "rank": 56,
+        "name": "Honolulu",
+        "region": "Hawaii",
+        "population": 350964,
+        "latitude": 21.32,
+        "longitude": -157.84,
+        "closestCity": {
+            "name": "San Francisco",
+            "region": "California",
+            "distance": 2390.4251217321003
+        }
+    },
+    {
+        "rank": 57,
+        "name": "Henderson",
+        "region": "Nevada",
+        "population": 317610,
+        "latitude": 36.0,
+        "longitude": -115.03,
+        "closestCity": {
+            "name": "North Las Vegas",
+            "region": "Nevada",
+            "distance": 19.654722318711947
+        }
+    },
+    {
+        "rank": 58,
+        "name": "Stockton",
+        "region": "California",
+        "population": 320804,
+        "latitude": 37.97,
+        "longitude": -121.31,
+        "closestCity": {
+            "name": "Modesto",
+            "region": "California",
+            "distance": 28.984276186871092
+        }
+    },
+    {
+        "rank": 59,
+        "name": "Lexington",
+        "region": "Kentucky",
+        "population": 322570,
+        "latitude": 38.04,
+        "longitude": -84.45,
+        "closestCity": {
+            "name": "Louisville",
+            "region": "Kentucky",
+            "distance": 65.30115646711124
+        }
+    },
+    {
+        "rank": 60,
+        "name": "Corpus Christi",
+        "region": "Texas",
+        "population": 317863,
+        "latitude": 27.75,
+        "longitude": -97.17,
+        "closestCity": {
+            "name": "Brownsville",
+            "region": "Texas",
+            "distance": 122.95419253623884
+        }
+    },
+    {
+        "rank": 61,
+        "name": "Riverside",
+        "region": "California",
+        "population": 314998,
+        "latitude": 33.93,
+        "longitude": -117.39,
+        "closestCity": {
+            "name": "Moreno Valley",
+            "region": "California",
+            "distance": 10.926573456763235
+        }
+    },
+    {
+        "rank": 62,
+        "name": "Santa Ana",
+        "region": "California",
+        "population": 310227,
+        "latitude": 33.73,
+        "longitude": -117.88,
+        "closestCity": {
+            "name": "Huntington Beach",
+            "region": "California",
+            "distance": 7.438182320597366
+        }
+    },
+    {
+        "rank": 63,
+        "name": "Orlando",
+        "region": "Florida",
+        "population": 307573,
+        "latitude": 28.41,
+        "longitude": -81.27,
+        "closestCity": {
+            "name": "Tampa",
+            "region": "Florida",
+            "distance": 79.2331149268071
+        }
+    },
+    {
+        "rank": 64,
+        "name": "Irvine",
+        "region": "California",
+        "population": 307670,
+        "latitude": 33.67,
+        "longitude": -117.77,
+        "closestCity": {
+            "name": "Santa Ana",
+            "region": "California",
+            "distance": 7.569007107907599
+        }
+    },
+    {
+        "rank": 65,
+        "name": "Cincinnati",
+        "region": "Ohio",
+        "population": 309317,
+        "latitude": 39.14,
+        "longitude": -84.5,
+        "closestCity": {
+            "name": "Lexington",
+            "region": "Kentucky",
+            "distance": 76.13213846181856
+        }
+    },
+    {
+        "rank": 66,
+        "name": "Newark",
+        "region": "New Jersey",
+        "population": 311549,
+        "latitude": 40.72,
+        "longitude": -74.17,
+        "closestCity": {
+            "name": "Jersey City",
+            "region": "New Jersey",
+            "distance": 5.808231351362582
+        }
+    },
+    {
+        "rank": 67,
+        "name": "Saint Paul",
+        "region": "Minnesota",
+        "population": 311527,
+        "latitude": 44.94,
+        "longitude": -93.1,
+        "closestCity": {
+            "name": "Minneapolis",
+            "region": "Minnesota",
+            "distance": 7.9534494772720405
+        }
+    },
+    {
+        "rank": 68,
+        "name": "Pittsburgh",
+        "region": "Pennsylvania",
+        "population": 302971,
+        "latitude": 40.43,
+        "longitude": -79.97,
+        "closestCity": {
+            "name": "Akron",
+            "region": "Ohio",
+            "distance": 92.82396619894158
+        }
+    },
+    {
+        "rank": 69,
+        "name": "Greensboro",
+        "region": "North Carolina",
+        "population": 299035,
+        "latitude": 36.09,
+        "longitude": -79.82,
+        "closestCity": {
+            "name": "Winston\u2013Salem",
+            "region": "North Carolina",
+            "distance": 24.60135444692444
+        }
+    },
+    {
+        "rank": 70,
+        "name": "St. Louis",
+        "region": "Missouri",
+        "population": 301578,
+        "latitude": 38.63,
+        "longitude": -90.24,
+        "closestCity": {
+            "name": "Indianapolis",
+            "region": "Indiana",
+            "distance": 233.45345464277784
+        }
+    },
+    {
+        "rank": 71,
+        "name": "Lincoln",
+        "region": "Nebraska",
+        "population": 291082,
+        "latitude": 40.81,
+        "longitude": -96.68,
+        "closestCity": {
+            "name": "Omaha",
+            "region": "Nebraska",
+            "distance": 45.64785700525442
+        }
+    },
+    {
+        "rank": 72,
+        "name": "Plano",
+        "region": "Texas",
+        "population": 285494,
+        "latitude": 33.05,
+        "longitude": -96.74,
+        "closestCity": {
+            "name": "Frisco",
+            "region": "Texas",
+            "distance": 8.326370752011286
+        }
+    },
+    {
+        "rank": 73,
+        "name": "Anchorage",
+        "region": "Alaska",
+        "population": 291247,
+        "latitude": 61.17,
+        "longitude": -149.28,
+        "closestCity": {
+            "name": "Seattle",
+            "region": "Washington",
+            "distance": 1415.130936914916
+        }
+    },
+    {
+        "rank": 74,
+        "name": "Durham",
+        "region": "North Carolina",
+        "population": 283506,
+        "latitude": 35.98,
+        "longitude": -78.9,
+        "closestCity": {
+            "name": "Cary",
+            "region": "North Carolina",
+            "distance": 14.724312437012335
+        }
+    },
+    {
+        "rank": 75,
+        "name": "Jersey City",
+        "region": "New Jersey",
+        "population": 292449,
+        "latitude": 40.71,
+        "longitude": -74.06,
+        "closestCity": {
+            "name": "Newark",
+            "region": "New Jersey",
+            "distance": 5.808231351362582
+        }
+    },
+    {
+        "rank": 76,
+        "name": "Chandler",
+        "region": "Arizona",
+        "population": 275987,
+        "latitude": 33.28,
+        "longitude": -111.85,
+        "closestCity": {
+            "name": "Gilbert",
+            "region": "Arizona",
+            "distance": 6.689496791408332
+        }
+    },
+    {
+        "rank": 77,
+        "name": "Chula Vista",
+        "region": "California",
+        "population": 275487,
+        "latitude": 32.62,
+        "longitude": -117.01,
+        "closestCity": {
+            "name": "San Diego",
+            "region": "California",
+            "distance": 14.882048722873794
+        }
+    },
+    {
+        "rank": 78,
+        "name": "Buffalo",
+        "region": "New York",
+        "population": 278349,
+        "latitude": 42.89,
+        "longitude": -78.85,
+        "closestCity": {
+            "name": "Rochester",
+            "region": "New York",
+            "distance": 65.42223359919521
+        }
+    },
+    {
+        "rank": 79,
+        "name": "North Las Vegas",
+        "region": "Nevada",
+        "population": 262527,
+        "latitude": 36.28,
+        "longitude": -115.09,
+        "closestCity": {
+            "name": "Las Vegas",
+            "region": "Nevada",
+            "distance": 10.35091663116448
+        }
+    },
+    {
+        "rank": 80,
+        "name": "Gilbert",
+        "region": "Arizona",
+        "population": 267918,
+        "latitude": 33.31,
+        "longitude": -111.74,
+        "closestCity": {
+            "name": "Mesa",
+            "region": "Arizona",
+            "distance": 6.461850319602027
+        }
+    },
+    {
+        "rank": 81,
+        "name": "Madison",
+        "region": "Wisconsin",
+        "population": 269840,
+        "latitude": 43.08,
+        "longitude": -89.42,
+        "closestCity": {
+            "name": "Milwaukee",
+            "region": "Wisconsin",
+            "distance": 73.78315574339885
+        }
+    },
+    {
+        "rank": 82,
+        "name": "Reno",
+        "region": "Nevada",
+        "population": 264165,
+        "latitude": 39.54,
+        "longitude": -119.84,
+        "closestCity": {
+            "name": "Sacramento",
+            "region": "California",
+            "distance": 110.30030483288945
+        }
+    },
+    {
+        "rank": 83,
+        "name": "Toledo",
+        "region": "Ohio",
+        "population": 270871,
+        "latitude": 41.66,
+        "longitude": -83.58,
+        "closestCity": {
+            "name": "Detroit",
+            "region": "Michigan",
+            "distance": 55.573566562559556
+        }
+    },
+    {
+        "rank": 84,
+        "name": "Fort Wayne",
+        "region": "Indiana",
+        "population": 263886,
+        "latitude": 41.08,
+        "longitude": -85.14,
+        "closestCity": {
+            "name": "Toledo",
+            "region": "Ohio",
+            "distance": 90.36591945738235
+        }
+    },
+    {
+        "rank": 85,
+        "name": "Lubbock",
+        "region": "Texas",
+        "population": 257141,
+        "latitude": 33.56,
+        "longitude": -101.88,
+        "closestCity": {
+            "name": "Amarillo",
+            "region": "Texas",
+            "distance": 112.7789810607561
+        }
+    },
+    {
+        "rank": 86,
+        "name": "St. Petersburg",
+        "region": "Florida",
+        "population": 258308,
+        "latitude": 27.76,
+        "longitude": -82.64,
+        "closestCity": {
+            "name": "Tampa",
+            "region": "Florida",
+            "distance": 17.861621834996413
+        }
+    },
+    {
+        "rank": 87,
+        "name": "Laredo",
+        "region": "Texas",
+        "population": 255205,
+        "latitude": 27.56,
+        "longitude": -99.48,
+        "closestCity": {
+            "name": "Corpus Christi",
+            "region": "Texas",
+            "distance": 142.13023836007156
+        }
+    },
+    {
+        "rank": 88,
+        "name": "Irving",
+        "region": "Texas",
+        "population": 256684,
+        "latitude": 32.85,
+        "longitude": -96.97,
+        "closestCity": {
+            "name": "Grand Prairie",
+            "region": "Texas",
+            "distance": 12.112743601629726
+        }
+    },
+    {
+        "rank": 89,
+        "name": "Chesapeake",
+        "region": "Virginia",
+        "population": 249422,
+        "latitude": 36.67,
+        "longitude": -76.3,
+        "closestCity": {
+            "name": "Virginia Beach",
+            "region": "Virginia",
+            "distance": 17.287162127129523
+        }
+    },
+    {
+        "rank": 90,
+        "name": "Winston\u2013Salem",
+        "region": "North Carolina",
+        "population": 249545,
+        "latitude": 36.1,
+        "longitude": -80.26,
+        "closestCity": {
+            "name": "Greensboro",
+            "region": "North Carolina",
+            "distance": 24.60135444692444
+        }
+    },
+    {
+        "rank": 91,
+        "name": "Glendale",
+        "region": "Arizona",
+        "population": 248325,
+        "latitude": 33.53,
+        "longitude": -112.18,
+        "closestCity": {
+            "name": "Phoenix",
+            "region": "Arizona",
+            "distance": 5.879615816335505
+        }
+    },
+    {
+        "rank": 92,
+        "name": "Scottsdale",
+        "region": "Arizona",
+        "population": 241361,
+        "latitude": 33.68,
+        "longitude": -111.86,
+        "closestCity": {
+            "name": "Phoenix",
+            "region": "Arizona",
+            "distance": 15.276205728936674
+        }
+    },
+    {
+        "rank": 93,
+        "name": "Garland",
+        "region": "Texas",
+        "population": 246018,
+        "latitude": 32.9,
+        "longitude": -96.63,
+        "closestCity": {
+            "name": "Dallas",
+            "region": "Texas",
+            "distance": 10.721756776008663
+        }
+    },
+    {
+        "rank": 94,
+        "name": "Boise",
+        "region": "Idaho",
+        "population": 235684,
+        "latitude": 43.6,
+        "longitude": -116.23,
+        "closestCity": {
+            "name": "Spokane",
+            "region": "Washington",
+            "distance": 286.74484092087476
+        }
+    },
+    {
+        "rank": 95,
+        "name": "Norfolk",
+        "region": "Virginia",
+        "population": 238005,
+        "latitude": 36.92,
+        "longitude": -76.24,
+        "closestCity": {
+            "name": "Virginia Beach",
+            "region": "Virginia",
+            "distance": 15.557603691220132
+        }
+    },
+    {
+        "rank": 96,
+        "name": "Spokane",
+        "region": "Washington",
+        "population": 228989,
+        "latitude": 47.66,
+        "longitude": -117.43,
+        "closestCity": {
+            "name": "Seattle",
+            "region": "Washington",
+            "distance": 229.270230618651
+        }
+    },
+    {
+        "rank": 97,
+        "name": "Fremont",
+        "region": "California",
+        "population": 230504,
+        "latitude": 37.49,
+        "longitude": -121.94,
+        "closestCity": {
+            "name": "San Jose",
+            "region": "California",
+            "distance": 15.569320675602365
+        }
+    },
+    {
+        "rank": 98,
+        "name": "Richmond",
+        "region": "Virginia",
+        "population": 226610,
+        "latitude": 37.53,
+        "longitude": -77.47,
+        "closestCity": {
+            "name": "Newport News",
+            "region": "Virginia",
+            "distance": 61.191415866035335
+        }
+    },
+    {
+        "rank": 99,
+        "name": "Santa Clarita",
+        "region": "California",
+        "population": 228673,
+        "latitude": 34.4,
+        "longitude": -118.5,
+        "closestCity": {
+            "name": "Glendale",
+            "region": "California",
+            "distance": 21.267558800403393
+        }
+    },
+    {
+        "rank": 100,
+        "name": "San Bernardino",
+        "region": "California",
+        "population": 222101,
+        "latitude": 34.14,
+        "longitude": -117.29,
+        "closestCity": {
+            "name": "Fontana",
+            "region": "California",
+            "distance": 10.119946985539906
+        }
+    },
+    {
+        "rank": 101,
+        "name": "Baton Rouge",
+        "region": "Louisiana",
+        "population": 227470,
+        "latitude": 30.44,
+        "longitude": -91.13,
+        "closestCity": {
+            "name": "New Orleans",
+            "region": "Louisiana",
+            "distance": 76.60850582011625
+        }
+    },
+    {
+        "rank": 102,
+        "name": "Hialeah",
+        "region": "Florida",
+        "population": 223109,
+        "latitude": 25.86,
+        "longitude": -80.3,
+        "closestCity": {
+            "name": "Miami",
+            "region": "Florida",
+            "distance": 8.804573360245012
+        }
+    },
+    {
+        "rank": 103,
+        "name": "Tacoma",
+        "region": "Washington",
+        "population": 219346,
+        "latitude": 47.25,
+        "longitude": -122.45,
+        "closestCity": {
+            "name": "Seattle",
+            "region": "Washington",
+            "distance": 26.016087412989346
+        }
+    },
+    {
+        "rank": 104,
+        "name": "Modesto",
+        "region": "California",
+        "population": 218464,
+        "latitude": 37.63,
+        "longitude": -121.0,
+        "closestCity": {
+            "name": "Stockton",
+            "region": "California",
+            "distance": 28.984276186871092
+        }
+    },
+    {
+        "rank": 105,
+        "name": "Port St. Lucie",
+        "region": "Florida",
+        "population": 204851,
+        "latitude": 27.28,
+        "longitude": -80.38,
+        "closestCity": {
+            "name": "Fort Lauderdale",
+            "region": "Florida",
+            "distance": 80.23300501709609
+        }
+    },
+    {
+        "rank": 106,
+        "name": "Huntsville",
+        "region": "Alabama",
+        "population": 215006,
+        "latitude": 34.69,
+        "longitude": -86.67,
+        "closestCity": {
+            "name": "Birmingham",
+            "region": "Alabama",
+            "distance": 81.2171314461882
+        }
+    },
+    {
+        "rank": 107,
+        "name": "Des Moines",
+        "region": "Iowa",
+        "population": 214133,
+        "latitude": 41.57,
+        "longitude": -93.61,
+        "closestCity": {
+            "name": "Omaha",
+            "region": "Nebraska",
+            "distance": 127.85330209344512
+        }
+    },
+    {
+        "rank": 108,
+        "name": "Moreno Valley",
+        "region": "California",
+        "population": 208634,
+        "latitude": 33.92,
+        "longitude": -117.2,
+        "closestCity": {
+            "name": "Riverside",
+            "region": "California",
+            "distance": 10.926573456763235
+        }
+    },
+    {
+        "rank": 109,
+        "name": "Fontana",
+        "region": "California",
+        "population": 208393,
+        "latitude": 34.1,
+        "longitude": -117.46,
+        "closestCity": {
+            "name": "Rancho Cucamonga",
+            "region": "California",
+            "distance": 5.8915106661189425
+        }
+    },
+    {
+        "rank": 110,
+        "name": "Frisco",
+        "region": "Texas",
+        "population": 200509,
+        "latitude": 33.15,
+        "longitude": -96.82,
+        "closestCity": {
+            "name": "Plano",
+            "region": "Texas",
+            "distance": 8.326370752011286
+        }
+    },
+    {
+        "rank": 111,
+        "name": "Rochester",
+        "region": "New York",
+        "population": 211328,
+        "latitude": 43.16,
+        "longitude": -77.61,
+        "closestCity": {
+            "name": "Buffalo",
+            "region": "New York",
+            "distance": 65.42223359919521
+        }
+    },
+    {
+        "rank": 112,
+        "name": "Yonkers",
+        "region": "New York",
+        "population": 211569,
+        "latitude": 40.94,
+        "longitude": -73.86,
+        "closestCity": {
+            "name": "Jersey City",
+            "region": "New Jersey",
+            "distance": 19.04356771238341
+        }
+    },
+    {
+        "rank": 113,
+        "name": "Fayetteville",
+        "region": "North Carolina",
+        "population": 208501,
+        "latitude": 35.08,
+        "longitude": -78.97,
+        "closestCity": {
+            "name": "Cary",
+            "region": "North Carolina",
+            "distance": 49.249727649579484
+        }
+    },
+    {
+        "rank": 114,
+        "name": "Worcester",
+        "region": "Massachusetts",
+        "population": 206518,
+        "latitude": 42.26,
+        "longitude": -71.8,
+        "closestCity": {
+            "name": "Providence",
+            "region": "Rhode Island",
+            "distance": 36.435676831582064
+        }
+    },
+    {
+        "rank": 115,
+        "name": "Columbus",
+        "region": "Georgia",
+        "population": 206922,
+        "latitude": 32.51,
+        "longitude": -84.87,
+        "closestCity": {
+            "name": "Montgomery",
+            "region": "Alabama",
+            "distance": 82.00026191992309
+        }
+    },
+    {
+        "rank": 116,
+        "name": "Cape Coral",
+        "region": "Florida",
+        "population": 194016,
+        "latitude": 26.64,
+        "longitude": -81.99,
+        "closestCity": {
+            "name": "St. Petersburg",
+            "region": "Florida",
+            "distance": 87.17846508675461
+        }
+    },
+    {
+        "rank": 117,
+        "name": "McKinney",
+        "region": "Texas",
+        "population": 195308,
+        "latitude": 33.19,
+        "longitude": -96.66,
+        "closestCity": {
+            "name": "Frisco",
+            "region": "Texas",
+            "distance": 9.667796902234905
+        }
+    },
+    {
+        "rank": 118,
+        "name": "Little Rock",
+        "region": "Arkansas",
+        "population": 202591,
+        "latitude": 34.72,
+        "longitude": -92.35,
+        "closestCity": {
+            "name": "Memphis",
+            "region": "Tennessee",
+            "distance": 137.52684285224927
+        }
+    },
+    {
+        "rank": 119,
+        "name": "Oxnard",
+        "region": "California",
+        "population": 202063,
+        "latitude": 34.2,
+        "longitude": -119.2,
+        "closestCity": {
+            "name": "Santa Clarita",
+            "region": "California",
+            "distance": 42.32189575263656
+        }
+    },
+    {
+        "rank": 120,
+        "name": "Amarillo",
+        "region": "Texas",
+        "population": 200393,
+        "latitude": 35.19,
+        "longitude": -101.83,
+        "closestCity": {
+            "name": "Lubbock",
+            "region": "Texas",
+            "distance": 112.7789810607561
+        }
+    },
+    {
+        "rank": 121,
+        "name": "Augusta",
+        "region": "Georgia",
+        "population": 202081,
+        "latitude": 33.36,
+        "longitude": -82.07,
+        "closestCity": {
+            "name": "Atlanta",
+            "region": "Georgia",
+            "distance": 138.2419099123345
+        }
+    },
+    {
+        "rank": 122,
+        "name": "Salt Lake City",
+        "region": "Utah",
+        "population": 199723,
+        "latitude": 40.77,
+        "longitude": -111.93,
+        "closestCity": {
+            "name": "Boise",
+            "region": "Idaho",
+            "distance": 294.68535790044575
+        }
+    },
+    {
+        "rank": 123,
+        "name": "Montgomery",
+        "region": "Alabama",
+        "population": 200603,
+        "latitude": 32.34,
+        "longitude": -86.26,
+        "closestCity": {
+            "name": "Columbus",
+            "region": "Georgia",
+            "distance": 82.00026191992309
+        }
+    },
+    {
+        "rank": 124,
+        "name": "Birmingham",
+        "region": "Alabama",
+        "population": 200733,
+        "latitude": 33.52,
+        "longitude": -86.79,
+        "closestCity": {
+            "name": "Huntsville",
+            "region": "Alabama",
+            "distance": 81.2171314461882
+        }
+    },
+    {
+        "rank": 125,
+        "name": "Grand Rapids",
+        "region": "Michigan",
+        "population": 198917,
+        "latitude": 42.96,
+        "longitude": -85.65,
+        "closestCity": {
+            "name": "Milwaukee",
+            "region": "Wisconsin",
+            "distance": 117.03508522266182
+        }
+    },
+    {
+        "rank": 126,
+        "name": "Grand Prairie",
+        "region": "Texas",
+        "population": 196100,
+        "latitude": 32.68,
+        "longitude": -97.02,
+        "closestCity": {
+            "name": "Arlington",
+            "region": "Texas",
+            "distance": 5.983275828643902
+        }
+    },
+    {
+        "rank": 127,
+        "name": "Overland Park",
+        "region": "Kansas",
+        "population": 197238,
+        "latitude": 38.88,
+        "longitude": -94.69,
+        "closestCity": {
+            "name": "Kansas City",
+            "region": "Missouri",
+            "distance": 18.22629596711734
+        }
+    },
+    {
+        "rank": 128,
+        "name": "Tallahassee",
+        "region": "Florida",
+        "population": 196169,
+        "latitude": 30.45,
+        "longitude": -84.25,
+        "closestCity": {
+            "name": "Columbus",
+            "region": "Georgia",
+            "distance": 147.1025156020118
+        }
+    },
+    {
+        "rank": 129,
+        "name": "Huntington Beach",
+        "region": "California",
+        "population": 198711,
+        "latitude": 33.69,
+        "longitude": -118.0,
+        "closestCity": {
+            "name": "Santa Ana",
+            "region": "California",
+            "distance": 7.438182320597366
+        }
+    },
+    {
+        "rank": 130,
+        "name": "Sioux Falls",
+        "region": "South Dakota",
+        "population": 192517,
+        "latitude": 43.53,
+        "longitude": -96.73,
+        "closestCity": {
+            "name": "Omaha",
+            "region": "Nebraska",
+            "distance": 160.9156312206009
+        }
+    },
+    {
+        "rank": 131,
+        "name": "Peoria",
+        "region": "Arizona",
+        "population": 190985,
+        "latitude": 33.78,
+        "longitude": -112.3,
+        "closestCity": {
+            "name": "Glendale",
+            "region": "Arizona",
+            "distance": 18.620979475378974
+        }
+    },
+    {
+        "rank": 132,
+        "name": "Knoxville",
+        "region": "Tennessee",
+        "population": 190740,
+        "latitude": 35.97,
+        "longitude": -83.94,
+        "closestCity": {
+            "name": "Chattanooga",
+            "region": "Tennessee",
+            "distance": 96.53030950243367
+        }
+    },
+    {
+        "rank": 133,
+        "name": "Glendale",
+        "region": "California",
+        "population": 196543,
+        "latitude": 34.18,
+        "longitude": -118.24,
+        "closestCity": {
+            "name": "Los Angeles",
+            "region": "California",
+            "distance": 15.266823887814562
+        }
+    },
+    {
+        "rank": 134,
+        "name": "Vancouver",
+        "region": "Washington",
+        "population": 190915,
+        "latitude": 45.63,
+        "longitude": -122.59,
+        "closestCity": {
+            "name": "Portland",
+            "region": "Oregon",
+            "distance": 7.50189170591797
+        }
+    },
+    {
+        "rank": 135,
+        "name": "Providence",
+        "region": "Rhode Island",
+        "population": 190934,
+        "latitude": 41.82,
+        "longitude": -71.41,
+        "closestCity": {
+            "name": "Worcester",
+            "region": "Massachusetts",
+            "distance": 36.435676831582064
+        }
+    },
+    {
+        "rank": 136,
+        "name": "Akron",
+        "region": "Ohio",
+        "population": 190469,
+        "latitude": 41.08,
+        "longitude": -81.52,
+        "closestCity": {
+            "name": "Cleveland",
+            "region": "Ohio",
+            "distance": 28.079622804242554
+        }
+    },
+    {
+        "rank": 137,
+        "name": "Brownsville",
+        "region": "Texas",
+        "population": 186738,
+        "latitude": 25.99,
+        "longitude": -97.45,
+        "closestCity": {
+            "name": "Corpus Christi",
+            "region": "Texas",
+            "distance": 122.95419253623884
+        }
+    },
+    {
+        "rank": 138,
+        "name": "Mobile",
+        "region": "Alabama",
+        "population": 187041,
+        "latitude": 30.66,
+        "longitude": -88.1,
+        "closestCity": {
+            "name": "New Orleans",
+            "region": "Louisiana",
+            "distance": 117.0879569441289
+        }
+    },
+    {
+        "rank": 139,
+        "name": "Newport News",
+        "region": "Virginia",
+        "population": 186247,
+        "latitude": 37.07,
+        "longitude": -76.52,
+        "closestCity": {
+            "name": "Norfolk",
+            "region": "Virginia",
+            "distance": 18.625362222437232
+        }
+    },
+    {
+        "rank": 140,
+        "name": "Tempe",
+        "region": "Arizona",
+        "population": 180587,
+        "latitude": 33.38,
+        "longitude": -111.93,
+        "closestCity": {
+            "name": "Chandler",
+            "region": "Arizona",
+            "distance": 8.31960299702487
+        }
+    },
+    {
+        "rank": 141,
+        "name": "Shreveport",
+        "region": "Louisiana",
+        "population": 187593,
+        "latitude": 32.46,
+        "longitude": -93.79,
+        "closestCity": {
+            "name": "Garland",
+            "region": "Texas",
+            "distance": 168.11139727861317
+        }
+    },
+    {
+        "rank": 142,
+        "name": "Chattanooga",
+        "region": "Tennessee",
+        "population": 181099,
+        "latitude": 35.06,
+        "longitude": -85.24,
+        "closestCity": {
+            "name": "Huntsville",
+            "region": "Alabama",
+            "distance": 85.08439838037958
+        }
+    },
+    {
+        "rank": 143,
+        "name": "Fort Lauderdale",
+        "region": "Florida",
+        "population": 182760,
+        "latitude": 26.14,
+        "longitude": -80.14,
+        "closestCity": {
+            "name": "Hialeah",
+            "region": "Florida",
+            "distance": 21.771848413717738
+        }
+    },
+    {
+        "rank": 144,
+        "name": "Aurora",
+        "region": "Illinois",
+        "population": 180542,
+        "latitude": 41.76,
+        "longitude": -88.29,
+        "closestCity": {
+            "name": "Chicago",
+            "region": "Illinois",
+            "distance": 31.826031936406554
+        }
+    },
+    {
+        "rank": 145,
+        "name": "Elk Grove",
+        "region": "California",
+        "population": 176124,
+        "latitude": 38.41,
+        "longitude": -121.38,
+        "closestCity": {
+            "name": "Sacramento",
+            "region": "California",
+            "distance": 11.242940724135066
+        }
+    },
+    {
+        "rank": 146,
+        "name": "Ontario",
+        "region": "California",
+        "population": 175265,
+        "latitude": 34.03,
+        "longitude": -117.6,
+        "closestCity": {
+            "name": "Rancho Cucamonga",
+            "region": "California",
+            "distance": 6.633489516349927
+        }
+    },
+    {
+        "rank": 147,
+        "name": "Salem",
+        "region": "Oregon",
+        "population": 175535,
+        "latitude": 44.92,
+        "longitude": -123.02,
+        "closestCity": {
+            "name": "Portland",
+            "region": "Oregon",
+            "distance": 45.88096649930563
+        }
+    },
+    {
+        "rank": 148,
+        "name": "Cary",
+        "region": "North Carolina",
+        "population": 174721,
+        "latitude": 35.78,
+        "longitude": -78.81,
+        "closestCity": {
+            "name": "Raleigh",
+            "region": "North Carolina",
+            "distance": 10.143989698401569
+        }
+    },
+    {
+        "rank": 149,
+        "name": "Santa Rosa",
+        "region": "California",
+        "population": 178127,
+        "latitude": 38.44,
+        "longitude": -122.7,
+        "closestCity": {
+            "name": "San Francisco",
+            "region": "California",
+            "distance": 50.97704312268294
+        }
+    },
+    {
+        "rank": 150,
+        "name": "Rancho Cucamonga",
+        "region": "California",
+        "population": 174453,
+        "latitude": 34.12,
+        "longitude": -117.56,
+        "closestCity": {
+            "name": "Fontana",
+            "region": "California",
+            "distance": 5.8915106661189425
+        }
+    }
+]
